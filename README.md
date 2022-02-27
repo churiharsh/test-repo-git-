@@ -1,2 +1,2 @@
-# test-repo-git-
+# test-repo
 test repo for git commands
